@@ -13,7 +13,7 @@
 # limitations under the License.
 FROM ubuntu:16.04
 
-LABEL maintainer="brian.ja.schardt@gmail.com"
+LABEL maintainer="sajeeth.sadanand@gmail.com"
 
 RUN apt-get update && apt-get install -y \
         curl \
